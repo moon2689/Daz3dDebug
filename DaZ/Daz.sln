@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.danielbui78.udtu.Editor", "com.danielbui78.udtu.Editor.csproj", "{4ca5a025-5446-3fe5-c682-8f2dc6eca383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.danielbui78.udtu", "com.danielbui78.udtu.csproj", "{5900947f-22e7-487e-d3cb-8cd3caad2a9e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleJSON", "SimpleJSON.csproj", "{8d681307-cb54-57b5-7064-136ad6dadabd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{50ae850e-9407-8841-b8c4-81ecd6bd78ae}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ca5a025-5446-3fe5-c682-8f2dc6eca383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ca5a025-5446-3fe5-c682-8f2dc6eca383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5900947f-22e7-487e-d3cb-8cd3caad2a9e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5900947f-22e7-487e-d3cb-8cd3caad2a9e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8d681307-cb54-57b5-7064-136ad6dadabd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8d681307-cb54-57b5-7064-136ad6dadabd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50ae850e-9407-8841-b8c4-81ecd6bd78ae}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50ae850e-9407-8841-b8c4-81ecd6bd78ae}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+*.DS_Store
+/Daz/.vs
+/Daz/.vsconfig
+/Daz/Library
+/Daz/UserSettings
+/Daz/Logs
+/Daz/obj
+/Daz/Temp
+/Daz.vsconfig
+/Daz/.idea
+/Daz/*.csproj
+/Daz/Assets/Daz3D
+/Daz/Assets/Daz3D.meta
